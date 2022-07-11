@@ -113,3 +113,5 @@ dist
 .history/*
 .DS_Store
 Thumbs.db
+environment.ts
+public/
